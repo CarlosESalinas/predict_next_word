@@ -1,0 +1,4 @@
+# Prediction of the next word in texts using language models: An approach based on Shakespeare's sonnets
+
+
+In this work, we tackle the challenge of predicting the next word in a text sequence using language models. We implement a neural network model trained on a corpus of Shakespeare's sonnets. The goal is to create a model capable of accurately predicting the next word in a text sequence, which has applications in tasks such as automatic text generation and grammatical correction. We explore the use of techniques such as text tokenization, n-gram generation, and the use of bidirectional recurrent neural network layers to achieve this goal. Through experimentation with different model architectures and training parameters, we aim to achieve satisfactory accuracy in predicting words in a specific literary context such as Shakespeare's sonnets.
